@@ -1,0 +1,5656 @@
+{
+  "checked": "2026-11-13",
+  "interface": 16001,
+  "leveling": [
+    {
+      "class": "WARRIOR",
+      "spec": "Fury",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-fury-warrior-leveling",
+      "chunks": [
+        {
+          "name": "Cruelty",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unbridled Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Piercing Howl",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Blood Craze",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Furious Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Enrage",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Death Wish",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Reckless Swings",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Dual Wield Specialization",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Flurry",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Dual Wield Specialization",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Bloodthirst",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Dual Wield Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Whirlwind",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Gore Drinker",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Execute",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Berserker Rage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Heroic Strike",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Deflection",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Improved Charge",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Tactical Mastery",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "PALADIN",
+      "spec": "Retribution",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-retribution-paladin-leveling",
+      "chunks": [
+        {
+          "name": "Benediction",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Conviction",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Judgement",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Seal of Command",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Sanctified Judgement",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Vindication",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Pursuit of Justice",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Sacred Arbiter",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Pursuit of Justice",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Two-Handed Weapon Specialization",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Vengeance",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Repentance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Champion of the Light",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Unsealed Wrath",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Divine Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Seals",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Holy Conduit",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Reverence",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Champion of the Light",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Intellect",
+          "rank": 4,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "HUNTER",
+      "spec": "Beast Mastery",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-beast-mastery-hunter-leveling",
+      "chunks": [
+        {
+          "name": "Deadly Aspects",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Focused Fire",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Revive Pet",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Endurance Training",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Pathfinding",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Unleashed Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ferocity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Summon Hawk",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Bestial Swiftness",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Intimidation",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Spirit Bond",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Frenzy",
+          "rank": 4,
+          "max": 5
+        },
+        {
+          "name": "Bestial Wrath",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Spirit Bond",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Frenzy",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Endurance Training",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Bestial Discipline",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Mend Pet",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lethal Attacks",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Efficiency",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "ROGUE",
+      "spec": "Combat",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-combat-rogue-leveling",
+      "chunks": [
+        {
+          "name": "Efficient Strikes",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Coup de Grace",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Lightning Reflexes",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Endurance",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Composure",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lightning Reflexes",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Aggression",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Weapon Expertise",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Flawless Execution",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Blade Flurry",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Hack and Slash",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Dual Wield Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Flash of Steel",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Adrenaline Rush",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Flash of Steel",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Malice",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Remorseless Attacks",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Ruthlessness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Lethality",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Vigor",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Cold Blood",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "class": "PRIEST",
+      "spec": "Discipline",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-discipline-priest-leveling",
+      "chunks": [
+        {
+          "name": "Wand Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Spirit Tap",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Twin Disciplines",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Improved Power Word: Shield",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Mental Agility",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Soul Warding",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Penance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Inner Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Power in Light",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Inner Fire",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Power Infusion",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Inner Fire",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Holy Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Shadow Word: Pain",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Mind Blast",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mind Flay",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shadow Reach",
+          "rank": 2,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "class": "SHAMAN",
+      "spec": "Enhancement",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-enhancement-shaman-leveling",
+      "chunks": [
+        {
+          "name": "Thundering Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Dexterity",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Shamanistic Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Elemental Weapons",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Anticipation",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Stormstrike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Flurry",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Stormstrike",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Ghost Wolf",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Mental Quickness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Rage of the Farseer",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Maelstrom Weapon",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Toughness",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Tidal Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Healing Wave",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "MAGE",
+      "spec": "Frost",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-frost-mage-leveling",
+      "chunks": [
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Frostbolt",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Frostbite",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ice Shards",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Ice Lance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Permafrost",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ice Shards",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Frost Channeling",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shatter",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Improved Frostbolt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Frost Warding",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Shatter",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Frost Nova",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Cold Snap",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Ice Barrier",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Ice Block",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Fingers of Frost",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Blizzard",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arctic Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Cone of Cold",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Incineration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Winter's Chill",
+          "rank": 3,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "WARLOCK",
+      "spec": "Affliction",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-affliction-warlock-leveling",
+      "chunks": [
+        {
+          "name": "Improved Corruption",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Soul Harvest",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Grim Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Suppression",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Pandemic",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Improved Drains",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Fel Concentration",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Nightfall",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Malevolence",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Siphon Life",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Soul Siphon",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Pandemic",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Wrack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shadow Mastery",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Life Tap",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Bane of Agony",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Suppression",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Demonic Embrace",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Voidwalker",
+          "rank": 2,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "DRUID",
+      "spec": "Feral Combat",
+      "url": "https://wowforeverbuilds.com/guide/beta-20-feral-druid-leveling",
+      "chunks": [
+        {
+          "name": "Ferocity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Feral Swiftness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Thick Hide",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Feral Charge",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Savage Fury",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Sharpened Claws",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Predatory Strikes",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shredding Attacks",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Blood Frenzy",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Predatory Discipline",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Natural Instinct",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Leader of the Pack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Rend and Tear",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Primal Bite",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shifting Power",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Natural Instinct",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Furor",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Heart of the Wild",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Naturalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Feral Instinct",
+          "rank": 2,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "DRUID",
+      "spec": "Balance",
+      "url": "https://foreverspec.com/classes/druid/balance/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Improved Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Moonglow",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Moonfire",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Majesty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Splendor",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Nature's Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Insect Swarm",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Vengeance",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Nature's Grace",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Genesis",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Moonfury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Moonkin Form",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Nature's Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Naturalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Starfire",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Eclipse",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "DRUID",
+      "spec": "Restoration",
+      "url": "https://foreverspec.com/classes/druid/restoration/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Ferocity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Thick Hide",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Feral Swiftness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Furor",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Savage Fury",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Sharpened Claws",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Shredding Attacks",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Predatory Strikes",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Leader of the Pack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Blood Frenzy",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Feral Charge",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Predatory Discipline",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Rend and Tear",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shifting Power",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Natural Instinct",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Furor",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Genesis",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Nature's Majesty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Heart of the Wild",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "HUNTER",
+      "spec": "Marksmanship",
+      "url": "https://foreverspec.com/classes/hunter/marksmanship/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Lethal Attacks",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Careful Aim",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rapid Killing",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Efficiency",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Mortal Shots",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Trueshot Aura",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Stings",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Rapid Recuperation",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Barrage",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ranged Weapon Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Sniper Shot",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Arcane Shot",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Improved Tracking",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Survivalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Surefooted",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "HUNTER",
+      "spec": "Survival",
+      "url": "https://foreverspec.com/classes/hunter/survival/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Improved Tracking",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Savage Strikes",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Survivalist",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Surefooted",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Clever Traps",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Predator's Edge",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Resourcefulness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Expose Prey",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Deterrence",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Lightning Reflexes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Lacerating Strikes",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Strider Kick",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Survivalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Counterattack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Deadly Aspects",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Lethal Attacks",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Careful Aim",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rapid Killing",
+          "rank": 1,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "class": "MAGE",
+      "spec": "Fire",
+      "url": "https://foreverspec.com/classes/mage/fire/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Accelerant",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ignite",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Pyroblast",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Burning Soul",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Fire Blast",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Heating Up",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Fire Blast",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Master of Elements",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Blast Wave",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Critical Mass",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Flame Throwing",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Fire Power",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Incineration",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Combustion",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Incineration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Flamestrike",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Flame Throwing",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Resilience",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Wand Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Concentration",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "MAGE",
+      "spec": "Arcane",
+      "url": "https://foreverspec.com/classes/mage/arcane/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Improved Channeling",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Concentration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Blast",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Missile Barrage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Impact",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Arcane Wrath",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Arcane Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arcane Impact",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Presence of Mind",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Arcane Mind",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Instability",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arcane Geometry",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Arcane Power",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Accelerant",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Incineration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Frost Warding",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Frost Nova",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Resilience",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "PALADIN",
+      "spec": "Holy",
+      "url": "https://foreverspec.com/classes/paladin/holy/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Benediction",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Conviction",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Judgement",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Seal of Command",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Sanctified Judgement",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Pursuit of Justice",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Sacred Arbiter",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Two-Handed Weapon Specialization",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Pursuit of Justice",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Vengeance",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Repentance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Vindication",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Champion of the Light",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Unsealed Wrath",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Divine Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Seals",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Intellect",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Holy Conduit",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Purifying Power",
+          "rank": 2,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "class": "PALADIN",
+      "spec": "Protection",
+      "url": "https://foreverspec.com/classes/paladin/protection/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Redoubt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Sacred Duty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Templar's Bulwark",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shield Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Toughness",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Improved Righteous Fury",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Anticipation",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Holy Shield",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Reckoning",
+          "rank": 4,
+          "max": 5
+        },
+        {
+          "name": "Iron Creed",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Reckoning",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Toughness",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Shieldsworn",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Benediction",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Conviction",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Swift Judgement",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Toughness",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Anticipation",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Intellect",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Hammer of Justice",
+          "rank": 1,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "PRIEST",
+      "spec": "Holy",
+      "url": "https://foreverspec.com/classes/priest/holy/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Wand Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Holy Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Holy Nova",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Inspiration",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Renew",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Searing Light",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Healing",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Holy Binding",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Litany of Light",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Spirit of Redemption",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Spiritual Guidance",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Spiritual Healing",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Prayer of Mending",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Twin Disciplines",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Inner Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Mental Agility",
+          "rank": 2,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "class": "PRIEST",
+      "spec": "Shadow",
+      "url": "https://foreverspec.com/classes/priest/shadow/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Spirit Tap",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Shadow Word: Pain",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Mind Blast",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Mind Flay",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Mind Flay",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Mind Blast",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Vampiric Embrace",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shadow Weaving",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shadow Focus",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Devouring Contagion",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Shadow Focus",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Silence",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Darkness",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shadowform",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Twin Disciplines",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Mental Agility",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Inner Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Early Demise",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Shadow Focus",
+          "rank": 4,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "ROGUE",
+      "spec": "Assassination",
+      "url": "https://foreverspec.com/classes/rogue/assassination/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Malice",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ruthlessness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Lethality",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Vigor",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Cold Blood",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Poisons",
+          "rank": 4,
+          "max": 5
+        },
+        {
+          "name": "Venom",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Relentless Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Seal Fate",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Poisons",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mutilate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Vile Poisons",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Kidney Shot",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Coup de Grace",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Lightning Reflexes",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Puncturing Wounds",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Endurance",
+          "rank": 2,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "class": "ROGUE",
+      "spec": "Subtlety",
+      "url": "https://foreverspec.com/classes/rogue/subtlety/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Opportunity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Dirty Deeds",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Ambush",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Serrated Blades",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Premeditation",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Initiative",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Ghostly Strike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Elusiveness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Initiative",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Hemorrhage",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Preparation",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Heightened Senses",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Camouflage",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Boot Knife",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Death Mark",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Malice",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Remorseless Attacks",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lethality",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Ruthlessness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Cold Blood",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Vigor",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Poisons",
+          "rank": 2,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "SHAMAN",
+      "spec": "Elemental",
+      "url": "https://foreverspec.com/classes/shaman/elemental/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Concussion",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Elemental Alacrity",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Call of Flame",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elemental Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Convection",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Eye of the Storm",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Trial by Fire",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Call of Thunder",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Lightning Overload",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Convection",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Elemental Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Lightning Mastery",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Tidal Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mindfulness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Thundering Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Totemic Focus",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Water Shield",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Totemic Focus",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Elemental Reach",
+          "rank": 2,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "class": "SHAMAN",
+      "spec": "Restoration",
+      "url": "https://foreverspec.com/classes/shaman/restoration/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Thundering Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Dexterity",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Elemental Weapons",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shamanistic Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Stormstrike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Flurry",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Ghost Wolf",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Mental Quickness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Stormstrike",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Maelstrom Weapon",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rage of the Farseer",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Concussion",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Call of Flame",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Reverberation",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Elemental Devastation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elemental Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Convection",
+          "rank": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "WARLOCK",
+      "spec": "Demonology",
+      "url": "https://foreverspec.com/classes/warlock/demonology/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Unholy Power",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Demonic Energies",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Fel Vitality",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Sayaad",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Master Summoner",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Demonic Sacrifice",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Demonic Brand",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Fel Domination",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Decimation",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Soul Link",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Demonic Knowledge",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Master Demonologist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Demonic Pact",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Bane",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Shadow Bolt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ruin",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Agonizing Flames",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Suppression",
+          "rank": 1,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "class": "WARLOCK",
+      "spec": "Destruction",
+      "url": "https://foreverspec.com/classes/warlock/destruction/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Bane",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Aftermath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ruin",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shadowburn",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Conflagrate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Agonizing Flames",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Fire and Brimstone",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Bane of Havoc",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Destructive Reach",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Shadow and Flame",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Incinerate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Suppression",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Demonic Embrace",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Fel Vitality",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Cataclysm",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Destructive Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Demonic Aegis",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Demonic Sacrifice",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "class": "WARRIOR",
+      "spec": "Arms",
+      "url": "https://foreverspec.com/classes/warrior/arms/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Improved Rend",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Heroic Strike",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Improved Overpower",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Charge",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Heroic Strike",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Deep Wounds",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Deflection",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Impale",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Two-Handed Weapon Specialization",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Sweeping Strikes",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Bloodthrill",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Weaponmaster",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Slam",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Mortal Strike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Cruelty",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unbridled Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Blood Craze",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Enrage",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Execute",
+          "rank": 2,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "class": "WARRIOR",
+      "spec": "Protection",
+      "url": "https://foreverspec.com/classes/warrior/protection/",
+      "publisher": "ForeverSpec",
+      "chunks": [
+        {
+          "name": "Shield Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Revenge",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Thunder Clap",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Master of Defense",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Last Stand",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Anticipation",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Vanguard",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Anticipation",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Concussion Blow",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Focused Rage",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Defiance",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Bastion",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shield Slam",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Cruelty",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unbridled Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Enrage",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Defiance",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Bloodrage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Sunder Armor",
+          "rank": 1,
+          "max": 3
+        }
+      ]
+    }
+  ],
+  "pve": [
+    {
+      "url": "https://wowforeverbuilds.com/guide/balance-druid-pve-guide",
+      "cls": "DRUID",
+      "spec": "Balance",
+      "role": "DPS",
+      "outdated": true,
+      "updated": "Nov 2, 2026",
+      "talents": [
+        {
+          "name": "Improved Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Genesis",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Moonglow",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Moonfire",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Majesty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Splendor",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Insect Swarm",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Vengeance",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Starfire",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Nature's Grace",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Eclipse",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Moonfury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Moonkin Form",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Nature's Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Naturalist",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/feral-combat-druid-pve-guide",
+      "cls": "DRUID",
+      "spec": "Feral Combat",
+      "role": "Tank",
+      "outdated": false,
+      "updated": "Nov 11, 2026",
+      "talents": [
+        {
+          "name": "Ferocity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Feral Swiftness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Feral Instinct",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Thick Hide",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shredding Attacks",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Savage Fury",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Feral Charge",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Sharpened Claws",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Predatory Strikes",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Lacerate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Blood Frenzy",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Leader of the Pack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Natural Instinct",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Rend and Tear",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Natural Reaction",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Primal Bite",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Heart of the Wild",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Naturalist",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/restoration-druid-pve-guide",
+      "cls": "DRUID",
+      "spec": "Restoration",
+      "role": "Healer",
+      "outdated": true,
+      "updated": "Nov 2, 2026",
+      "talents": [
+        {
+          "name": "Genesis",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Moonglow",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Nature's Majesty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Nature's Splendor",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Nature's Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Naturalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Reflection",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Subtlety",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Gift of Nature",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Bloom",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Tranquil Spirit",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Improved Rejuvenation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Swiftmend",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Nature's Swiftness",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Living Spirit",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Tranquility",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Regrowth",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Wild Growth",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/beast-mastery-hunter-pve-guide",
+      "cls": "HUNTER",
+      "spec": "Beast Mastery",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Deadly Aspects",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Endurance Training",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Focused Fire",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Bestial Swiftness",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Unleashed Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ferocity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Summon Hawk",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Intimidation",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Bestial Discipline",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Frenzy",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Bestial Wrath",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Lethal Attacks",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Efficiency",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Careful Aim",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rapid Killing",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Trueshot Aura",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Mortal Shots",
+          "rank": 4,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/marksmanship-hunter-pve-guide",
+      "cls": "HUNTER",
+      "spec": "Marksmanship",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Oct 24, 2026",
+      "talents": [
+        {
+          "name": "Lethal Attacks",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Stings",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Efficiency",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Careful Aim",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rapid Killing",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lone Wolf",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Trueshot Aura",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Mortal Shots",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rapid Recuperation",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Barrage",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ranged Weapon Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Sniper Shot",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Tracking",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Survivalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Surefooted",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/survival-hunter-pve-guide",
+      "cls": "HUNTER",
+      "spec": "Survival",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Sep 17, 2026",
+      "talents": [
+        {
+          "name": "Careful Aim",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Efficiency",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Lethal Attacks",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rapid Killing",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Trueshot Aura",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Mortal Shots",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Tracking",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Entrapment",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Survivalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Clever Traps",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Surefooted",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Deterrence",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Survival Tactics",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Counterattack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Resourcefulness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Expose Prey",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Survivalist's Discipline",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lightning Reflexes",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/frost-mage-pve-guide",
+      "cls": "MAGE",
+      "spec": "Frost",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Improved Channeling",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Subtlety",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Concentration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Missile Barrage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Impact",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arcane Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Frost Warding",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Frostbolt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ice Shards",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Frostbite",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Frost Channeling",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ice Lance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Arctic Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Ice Block",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shatter",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Cold Snap",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Fingers of Frost",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Ice Barrier",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/fire-mage-pve-guide",
+      "cls": "MAGE",
+      "spec": "Fire",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Improved Channeling",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Subtlety",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Concentration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Missile Barrage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Incineration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Accelerant",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ignite",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Burning Soul",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Pyroblast",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Fire Blast",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Scorch",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Heating Up",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Master of Elements",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Critical Mass",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Fire Power",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Combustion",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/arcane-mage-pve-guide",
+      "cls": "MAGE",
+      "spec": "Arcane",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 11, 2026",
+      "talents": [
+        {
+          "name": "Improved Channeling",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Resilience",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Arcane Subtlety",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Magic Absorption",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Concentration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Missile Barrage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Geometry",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Arcane Impact",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arcane Blast",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Arcane Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arcane Wrath",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Presence of Mind",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Arcane Mind",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Arcane Instability",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Arcane Power",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Incineration",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Accelerant",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/holy-paladin-pve-guide",
+      "cls": "PALADIN",
+      "spec": "Holy",
+      "role": "Healer",
+      "outdated": true,
+      "updated": "Nov 2, 2026",
+      "talents": [
+        {
+          "name": "Spiritual Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Healing Light",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Reverence",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Purifying Power",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Divine Favor",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Illumination",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Precision",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Infusion of Light",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Oath of Light",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Holy Shock",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Boundless Light",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Holy Power",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Light's Vigil",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Divine Intellect",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Guardian's Favor",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Sacred Duty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Benediction",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Conviction",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Sanctified Judgement",
+          "rank": 3,
+          "max": 3
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/protection-paladin-pve-guide",
+      "cls": "PALADIN",
+      "spec": "Protection",
+      "role": "Tank",
+      "outdated": false,
+      "updated": "Nov 11, 2026",
+      "talents": [
+        {
+          "name": "Divine Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Seals",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Divine Intellect",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Redoubt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Sacred Duty",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Templar's Bulwark",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Hammer of Justice",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Shield Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Toughness",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Swift Judgement",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Righteous Fury",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Anticipation",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Holy Shield",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Reckoning",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Iron Creed",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shieldsworn",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/retribution-paladin-pve-guide",
+      "cls": "PALADIN",
+      "spec": "Retribution",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 11, 2026",
+      "talents": [
+        {
+          "name": "Divine Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Seals",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Holy Conduit",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Divine Intellect",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Benediction",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Judgement",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Conviction",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Sanctified Judgement",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Vindication",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Seal of Command",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Pursuit of Justice",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Sacred Arbiter",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Two-Handed Weapon Specialization",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Repentance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Vengeance",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Champion of the Light",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unsealed Wrath",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/discipline-priest-pve-guide",
+      "cls": "PRIEST",
+      "spec": "Discipline",
+      "role": "Healer",
+      "outdated": false,
+      "updated": "Nov 11, 2026",
+      "talents": [
+        {
+          "name": "Twin Disciplines",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Silent Resolve",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Agility",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Inner Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Power Word: Shield",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Soul Warding",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Penance",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Renewed Hope",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Aegis",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Power Infusion",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Holy Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Spell Warding",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Divine Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Inspiration",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Healing",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Holy Binding",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/holy-priest-pve-guide",
+      "cls": "PRIEST",
+      "spec": "Holy",
+      "role": "Healer",
+      "outdated": true,
+      "updated": "Nov 2, 2026",
+      "talents": [
+        {
+          "name": "Twin Disciplines",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Silent Resolve",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Mental Agility",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Inner Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Power Word: Shield",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Meditation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Renew",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Holy Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Divine Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Holy Nova",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Inspiration",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Healing",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Holy Binding",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Litany of Light",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Spirit of Redemption",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Spiritual Guidance",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Spiritual Healing",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Prayer of Mending",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/shadow-priest-pve-guide",
+      "cls": "PRIEST",
+      "spec": "Shadow",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Oct 24, 2026",
+      "talents": [
+        {
+          "name": "Twin Disciplines",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Silent Resolve",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Mental Strength",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Mental Agility",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Inner Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Power Word: Shield",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Meditation",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Shadow Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Blackout",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Improved Mind Blast",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Shadow Word: Pain",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Shadow Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Mind Flay",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Mind Flay",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Vampiric Embrace",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shadow Weaving",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Silence",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Devouring Contagion",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Early Demise",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Darkness",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shadowform",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/assassination-rogue-pve-guide",
+      "cls": "ROGUE",
+      "spec": "Assassination",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Malice",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ruthlessness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Vigor",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lethality",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Vile Poisons",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Cold Blood",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Poisons",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Relentless Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Venom",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Seal Fate",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Mutilate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Coup de Grace",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Lightning Reflexes",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Puncturing Wounds",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Opportunity",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/combat-rogue-pve-guide",
+      "cls": "ROGUE",
+      "spec": "Combat",
+      "role": "DPS",
+      "outdated": true,
+      "updated": "Nov 4, 2026",
+      "talents": [
+        {
+          "name": "Malice",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ruthlessness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Vigor",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Lethality",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Cold Blood",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Coup de Grace",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Efficient Strikes",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Deflection",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Endurance",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Composure",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Flawless Execution",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Weapon Expertise",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Aggression",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Dual Wield Specialization",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Blade Flurry",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Hack and Slash",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Flash of Steel",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Adrenaline Rush",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/subtlety-rogue-pve-guide",
+      "cls": "ROGUE",
+      "spec": "Subtlety",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 4, 2026",
+      "talents": [
+        {
+          "name": "Malice",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ruthlessness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Slice and Dice",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Blood Splatter",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Lethality",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Coup de Grace",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Efficient Strikes",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Precision",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Setup",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Opportunity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Dirty Deeds",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Ambush",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Initiative",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Premeditation",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Serrated Blades",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elusiveness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Ghostly Strike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Heightened Senses",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Preparation",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Hemorrhage",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Boot Knife",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Death Mark",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/elemental-shaman-pve-guide",
+      "cls": "SHAMAN",
+      "spec": "Elemental",
+      "role": "DPS",
+      "outdated": true,
+      "updated": "Nov 4, 2026",
+      "talents": [
+        {
+          "name": "Convection",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Concussion",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Reverberation",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Elemental Alacrity",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Call of Flame",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elemental Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Eye of the Storm",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elemental Reach",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Call of Thunder",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Lightning Overload",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elemental Fury",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Lightning Mastery",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Thundering Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Tidal Focus",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/enhancement-shaman-pve-guide",
+      "cls": "SHAMAN",
+      "spec": "Enhancement",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 4, 2026",
+      "talents": [
+        {
+          "name": "Convection",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Concussion",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Elemental Devastation",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Reverberation",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Elemental Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Thundering Strikes",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mental Dexterity",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Elemental Weapons",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shamanistic Focus",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Flurry",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Stormstrike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Spirit Weapons",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Mental Quickness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Stormstrike",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Maelstrom Weapon",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Rage of the Farseer",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/restoration-shaman-pve-guide",
+      "cls": "SHAMAN",
+      "spec": "Restoration",
+      "role": "Healer",
+      "outdated": true,
+      "updated": "Nov 4, 2026",
+      "talents": [
+        {
+          "name": "Thundering Strikes",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Ancestral Knowledge",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Healing Wave",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Tidal Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mindfulness",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Totemic Focus",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Ancestral Healing",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Water Shield",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Tidal Mastery",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Restorative Totems",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Mana Tide Totem",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Healing Way",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Nature's Swiftness",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Purification",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Riptide",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/affliction-warlock-pve-guide",
+      "cls": "WARLOCK",
+      "spec": "Affliction",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Improved Life Tap",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Suppression",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Corruption",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Grim Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Soul Harvest",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Drains",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Bane of Agony",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Pandemic",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Malevolence",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Nightfall",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Siphon Life",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Soul Siphon",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shadow Mastery",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Wrack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Health Funnel",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Demonic Embrace",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Fel Vitality",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Demonic Sacrifice",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/demonology-warlock-pve-guide",
+      "cls": "WARLOCK",
+      "spec": "Demonology",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Demonic Embrace",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unholy Power",
+          "rank": 1,
+          "max": 5
+        },
+        {
+          "name": "Demonic Aegis",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Fel Vitality",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Demonic Energies",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Sayaad",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Demonic Sacrifice",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Master Summoner",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Decimation",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Soul Link",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Demonic Knowledge",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Master Demonologist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Demonic Pact",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Destructive Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Shadow Bolt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Bane",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Cataclysm",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ruin",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/destruction-warlock-pve-guide",
+      "cls": "WARLOCK",
+      "spec": "Destruction",
+      "role": "DPS",
+      "outdated": true,
+      "updated": "Nov 1, 2026",
+      "talents": [
+        {
+          "name": "Improved Life Tap",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Suppression",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Grim Reach",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Demonic Embrace",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Demonic Aegis",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Fel Vitality",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Demonic Sacrifice",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Destructive Reach",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Improved Shadow Bolt",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Bane",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Cataclysm",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Ruin",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shadowburn",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Agonizing Flames",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Conflagrate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Bane of Havoc",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shadow and Flame",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Incinerate",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/arms-warrior-pve-guide",
+      "cls": "WARRIOR",
+      "spec": "Arms",
+      "role": "DPS",
+      "outdated": true,
+      "updated": "Nov 4, 2026",
+      "talents": [
+        {
+          "name": "Improved Heroic Strike",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Rend",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Tactical Mastery",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Overpower",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Anger Management",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Deep Wounds",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Spearing Strike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Two-Handed Weapon Specialization",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Impale",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Bloodthrill",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Sweeping Strikes",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Weaponmaster",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Slam",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Mortal Strike",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Booming Voice",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Cruelty",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unbridled Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Blood Craze",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Reckless Swings",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Execute",
+          "rank": 2,
+          "max": 2
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/fury-warrior-pve-guide",
+      "cls": "WARRIOR",
+      "spec": "Fury",
+      "role": "DPS",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Improved Heroic Strike",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Rend",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Charge",
+          "rank": 1,
+          "max": 2
+        },
+        {
+          "name": "Improved Tactical Mastery",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Anger Management",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Deep Wounds",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Booming Voice",
+          "rank": 2,
+          "max": 5
+        },
+        {
+          "name": "Cruelty",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unbridled Wrath",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Furious Precision",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Enrage",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Dual Wield Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Reckless Swings",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Execute",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Berserker Rage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Death Wish",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Improved Whirlwind",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Flurry",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Bloodthirst",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    },
+    {
+      "url": "https://wowforeverbuilds.com/guide/protection-warrior-pve-guide",
+      "cls": "WARRIOR",
+      "spec": "Protection",
+      "role": "Tank",
+      "outdated": false,
+      "updated": "Nov 9, 2026",
+      "talents": [
+        {
+          "name": "Cruelty",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Unbridled Wrath",
+          "rank": 3,
+          "max": 5
+        },
+        {
+          "name": "Improved Bloodrage",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Shield Specialization",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Iron Will",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Anticipation",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Improved Revenge",
+          "rank": 2,
+          "max": 3
+        },
+        {
+          "name": "Last Stand",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Master of Defense",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Improved Disarm",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Defiance",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Sunder Armor",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Improved Shield Wall",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Concussion Blow",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Focused Rage",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Bastion",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Shield Slam",
+          "rank": 1,
+          "max": 1
+        }
+      ]
+    }
+  ],
+  "hybrids": [
+    {
+      "classToken": "DRUID",
+      "spec": "Feral Cat / Bear",
+      "treeSpec": "Feral Combat",
+      "mode": "Leveling",
+      "ordered": false,
+      "hybrid": true,
+      "publisher": "Raynna adaptation",
+      "status": "Suggested hybrid",
+      "checked": "2026-11-13",
+      "source": "https://www.method.gg/wow-forever/class-guides/feral-dps-druid/talents",
+      "chunks": [
+        {
+          "name": "Ferocity",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Feral Swiftness",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Thick Hide",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Feral Charge",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Savage Fury",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Sharpened Claws",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Predatory Strikes",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Shredding Attacks",
+          "rank": 1,
+          "max": 3
+        },
+        {
+          "name": "Blood Frenzy",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Predatory Discipline",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Natural Instinct",
+          "rank": 2,
+          "max": 2
+        },
+        {
+          "name": "Leader of the Pack",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Rend and Tear",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Primal Bite",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Shifting Power",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Heart of the Wild",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Naturalist",
+          "rank": 5,
+          "max": 5
+        },
+        {
+          "name": "Feral Instinct",
+          "rank": 3,
+          "max": 3
+        },
+        {
+          "name": "Lacerate",
+          "rank": 1,
+          "max": 1
+        },
+        {
+          "name": "Natural Reaction",
+          "rank": 5,
+          "max": 5
+        }
+      ]
+    }
+  ]
+}

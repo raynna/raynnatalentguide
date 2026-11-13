@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Raynna's Talent Guide
+## Notes: Sourced talent recommendations, next-pick highlights and leveling routes for WoW Forever.
+## Author: Andreas
+## Version: 0.3.3
+## SavedVariablesPerCharacter: TalentGuideDB
+SettingsRegistry.lua
+Guides.lua
+Engine.lua
+Client.lua
+Theme.lua
+UI.lua
+Settings.lua
