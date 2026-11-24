@@ -1,8 +1,9 @@
 ## Interface: 16001
+## IconTexture: Interface\AddOns\TalentGuide\AddonIcon
 ## Title: Raynna's Talent Guide
 ## Notes: Sourced talent recommendations, next-pick highlights and leveling routes for WoW Forever.
 ## Author: Andreas
-## Version: 0.3.3
+## Version: 0.3.5
 ## SavedVariablesPerCharacter: TalentGuideDB
 SettingsRegistry.lua
 Guides.lua
