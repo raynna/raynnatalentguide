@@ -256,6 +256,25 @@ function A.PaintHighlights(frame)
 end
 
 function A.AttachTalentHooks()
+    -- The talent UI is load-on-demand, so neither frame exists at login and an
+    -- early return here would leave the guide unhooked until a slash command
+    -- created the window by hand. Hook the parent as soon as Blizzard builds
+    -- it, and let that hook attach the tab every time the window opens.
+    local parent = _G.PlayerSpellsFrame
+    if parent and type(parent.HookScript) == 'function' and A.hookedParent ~= parent then
+        A.hookedParent = parent
+        parent:HookScript('OnShow', function()
+            A.dismissed = false
+            A.AttachTalentHooks()
+            if C_Timer and C_Timer.After then
+                C_Timer.After(0, function()
+                    A.Refresh()
+                end)
+            else
+                A.Refresh()
+            end
+        end)
+    end
     local frame = A.TalentFrame()
     if not frame or A.hookedFrame == frame then
         return
@@ -339,6 +358,7 @@ local events = CreateFrame('Frame')
 A.events = events
 events:RegisterEvent('ADDON_LOADED')
 events:RegisterEvent('PLAYER_LOGIN')
+events:RegisterEvent('PLAYER_ENTERING_WORLD')
 events:SetScript('OnEvent', function(_, event, addon)
     if event == 'ADDON_LOADED' and addon == 'TalentGuide' then
         TalentGuideDB = type(TalentGuideDB) == 'table' and TalentGuideDB or {}
@@ -368,7 +388,7 @@ events:SetScript('OnEvent', function(_, event, addon)
             A.BuildSettings()
         end
         A.Refresh()
-    elseif event == 'PLAYER_LOGIN' then
+    elseif event == 'PLAYER_LOGIN' or event == 'PLAYER_ENTERING_WORLD' then
         A.AttachTalentHooks()
         A.Refresh()
     elseif A.db then
