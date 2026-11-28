@@ -9,8 +9,10 @@ function A.ReadClient(frame)
     if not C_Traits or not C_ClassTalents then
         return nil, 'Forever talent APIs are unavailable.'
     end
-    if GetLocale() ~= 'enUS' and GetLocale() ~= 'enGB' then
-        return nil, 'This guide pack currently matches English talent names (enUS/enGB).'
+    -- Other locales are matched by tree position instead; see Localization.lua.
+    if GetLocale() ~= 'enUS' and GetLocale() ~= 'enGB'
+        and not (A.CanLocalize and A.CanLocalize()) then
+        return nil, 'This guide pack has no talent table for your class in this language.'
     end
     if frame:IsInspecting() then
         return nil, 'Inspecting another player: guidance paused.'
@@ -28,6 +30,7 @@ function A.ReadClient(frame)
     end
     local nodes, total, seen = {}, 0, {}
     local unspent, currencies = nil, {}
+    local positions = A.BuildNodePositions and A.BuildNodePositions(config, info) or nil
     for _, tree in ipairs(info.treeIDs) do
         if C_Traits.GetTreeCurrencyInfo then
             for _, currency in ipairs(C_Traits.GetTreeCurrencyInfo(config, tree, false) or {}) do
@@ -55,6 +58,14 @@ function A.ReadClient(frame)
                         and C_Traits.GetDefinitionInfo(entry.definitionID)
                     local spell = def and def.spellID
                     local name = def and (def.overrideName or (spell and C_Spell.GetSpellName(spell)))
+                    -- The client names talents in its own language while the
+                    -- routes are English, so swap in the English name when the
+                    -- node's position identifies it.
+                    local localizedName = name
+                    local english = positions and A.EnglishTalentName(positions[id], node.maxRanks)
+                    if english then
+                        name = english
+                    end
                     if name and name ~= '' then
                         local rank = (node.activeEntry and node.activeEntry.entryID == entryID)
                                 and (node.ranksPurchased or 0)
@@ -79,6 +90,7 @@ function A.ReadClient(frame)
                             groupIndex = groupOrder[(node.groupIDs or {})[1]],
                             groupIcon = icons[(node.groupIDs or {})[1]],
                             ambiguous = previous ~= nil,
+                            localizedName = localizedName,
                         }
                     end
                 end
